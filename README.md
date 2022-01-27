@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the New Verticals CnG Checkout Squad @ DD
+- 😄 Pronouns: He/Him
+
 <!--
 **mohitb-117/mohitb-117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
